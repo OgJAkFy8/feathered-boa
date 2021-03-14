@@ -1,3 +1,5 @@
-# feathered-boa
+# Python in a feathered boa.
 
-Python in a feathered boa. Small items that make you look marvelous.
+ Small scripts, programs and function that will make you look marvelous.
+ 
+ 
