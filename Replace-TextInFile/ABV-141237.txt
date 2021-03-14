@@ -1,0 +1,196 @@
+ABV
+ WHERE BeverageId BeverageId
+0.04
+ WHERE BeverageId 1
+0.05
+ WHERE BeverageId 2
+0.04
+ WHERE BeverageId 3
+0.05
+ WHERE BeverageId 4
+0.04
+ WHERE BeverageId 5
+0.09
+ WHERE BeverageId 6
+0.06
+ WHERE BeverageId 7
+0.05
+ WHERE BeverageId 8
+0.05
+ WHERE BeverageId 9
+0.04
+ WHERE BeverageId 10
+0.04
+ WHERE BeverageId 11
+0.04
+ WHERE BeverageId 12
+0.04
+ WHERE BeverageId 13
+0.05
+ WHERE BeverageId 14
+0.05
+ WHERE BeverageId 15
+0.05
+ WHERE BeverageId 16
+0.06
+ WHERE BeverageId 17
+0.05
+ WHERE BeverageId 18
+0.05
+ WHERE BeverageId 19
+0.05
+ WHERE BeverageId 20
+0.06
+ WHERE BeverageId 21
+0.09
+ WHERE BeverageId 22
+0.04
+ WHERE BeverageId 23
+0.05
+ WHERE BeverageId 24
+0.07
+ WHERE BeverageId 25
+0.10
+ WHERE BeverageId 26
+0.05
+ WHERE BeverageId 27
+0.06
+ WHERE BeverageId 28
+0.05
+ WHERE BeverageId 29
+0.06
+ WHERE BeverageId 30
+0.10
+ WHERE BeverageId 31
+0.05
+ WHERE BeverageId 32
+0.08
+ WHERE BeverageId 33
+0.09
+ WHERE BeverageId 34
+0.07
+ WHERE BeverageId 35
+0.06
+ WHERE BeverageId 36
+0.05
+ WHERE BeverageId 37
+0.09
+ WHERE BeverageId 38
+0.08
+ WHERE BeverageId 39
+0.08
+ WHERE BeverageId 40
+0.07
+ WHERE BeverageId 41
+0.07
+ WHERE BeverageId 42
+0.06
+ WHERE BeverageId 43
+0.07
+ WHERE BeverageId 44
+0.09
+ WHERE BeverageId 45
+0.06
+ WHERE BeverageId 46
+0.06
+ WHERE BeverageId 47
+0.07
+ WHERE BeverageId 48
+0.07
+ WHERE BeverageId 49
+0.07
+ WHERE BeverageId 50
+0.07
+ WHERE BeverageId 51
+0.06
+ WHERE BeverageId 52
+0.07
+ WHERE BeverageId 53
+0.07
+ WHERE BeverageId 54
+0.10
+ WHERE BeverageId 55
+0.06
+ WHERE BeverageId 56
+0.06
+ WHERE BeverageId 57
+0.04
+ WHERE BeverageId 58
+0.06
+ WHERE BeverageId 59
+0.05
+ WHERE BeverageId 60
+0.06
+ WHERE BeverageId 61
+0.05
+ WHERE BeverageId 62
+0.06
+ WHERE BeverageId 63
+0.06
+ WHERE BeverageId 64
+0.05
+ WHERE BeverageId 65
+0.05
+ WHERE BeverageId 66
+0.08
+ WHERE BeverageId 67
+0.05
+ WHERE BeverageId 68
+0.06
+ WHERE BeverageId 69
+0.06
+ WHERE BeverageId 70
+0.05
+ WHERE BeverageId 71
+0.07
+ WHERE BeverageId 72
+0.06
+ WHERE BeverageId 73
+0.05
+ WHERE BeverageId 74
+0.05
+ WHERE BeverageId 75
+0.06
+ WHERE BeverageId 76
+0.04
+ WHERE BeverageId 77
+0.05
+ WHERE BeverageId 78
+0.05
+ WHERE BeverageId 79
+0.05
+ WHERE BeverageId 80
+0.05
+ WHERE BeverageId 81
+0.06
+ WHERE BeverageId 82
+0.04
+ WHERE BeverageId 83
+0.07
+ WHERE BeverageId 84
+0.06
+ WHERE BeverageId 85
+0.05
+ WHERE BeverageId 86
+0.08
+ WHERE BeverageId 87
+0.05
+ WHERE BeverageId 88
+0.05
+ WHERE BeverageId 89
+0.08
+ WHERE BeverageId 90
+0.05
+ WHERE BeverageId 91
+0.08
+ WHERE BeverageId 92
+0.04
+ WHERE BeverageId 93
+0.01
+ WHERE BeverageId 94
+0.06
+ WHERE BeverageId 95
+0.04
+ WHERE BeverageId 96
+0.06
+ WHERE BeverageId 97
