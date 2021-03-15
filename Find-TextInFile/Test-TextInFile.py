@@ -1,6 +1,7 @@
 # Assignments
 file_name = 'Example.txt'
 searchfor_what = 'Victory' #input('Search String: ')
+print('Searching for: "{0}" in file "{1}".'.format(searchfor_what, file_name))
 
 
 def check_if_string_in_file(file_name, searchfor_what):

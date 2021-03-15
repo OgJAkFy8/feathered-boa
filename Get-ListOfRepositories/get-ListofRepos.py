@@ -24,7 +24,7 @@ Outfile.close()
 if len(repolist) > 0:
     # File Name
     timestamp = time.strftime("%d%M%S")
-    name = '-' + timestamp + '.txt'
+    name = '-' + timestamp + 'x.txt'
     filename = Outfilename.replace('.txt', name)
     print(filename)
     os.rename(Outfilename, filename)

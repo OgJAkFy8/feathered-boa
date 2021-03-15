@@ -1,7 +1,7 @@
 # Assignments
 file_name = 'Example.txt'
 searchfor_what = 'Victory' #input('Search String: ')
-
+print('Searching for: "{0}" in file "{1}".'.format(searchfor_what, file_name))
 
 def search_string_in_file(file_name, searchfor_what):
     """Search for the given string in file and return lines containing that string,

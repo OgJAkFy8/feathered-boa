@@ -4,6 +4,8 @@ import time
 Input_file = 'Example.txt'
 replace_what = "\t"
 replace_with = "\n WHERE BeverageId "
+print('Searching for: "{0}" in file "{1}" and replacing it with "{2}".'.format(replace_what, Input_file, replace_with))
+
 
 # Open the file
 readfile = open(Input_file, 'r')
@@ -14,13 +16,12 @@ edited_data = original_data.replace(replace_what, replace_with)
 
 # File Name
 timestamp = time.strftime("%d%M%S")
-name = '-' + timestamp + '.txt'
+name = '-' + timestamp + 'x.txt'
 filename = Input_file.replace('.txt', name)
 
-# print (filename)
+
+print('\nNew file: {0}'.format(filename))
 Outfile = open(filename, 'w')
 Outfile.write(edited_data)
 Outfile.close()
 
-print('\n')
-print(edited_data)

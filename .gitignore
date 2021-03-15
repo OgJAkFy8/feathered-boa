@@ -1,6 +1,7 @@
 # Repository Directories / files
 #soutputs/*
 sketchpad
+*x.txt
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
