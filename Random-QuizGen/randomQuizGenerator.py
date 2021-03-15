@@ -4,7 +4,7 @@
 
 import random
 
-Outputfile = '../outputs/capitalsquiz'
+Outputfile = 'capitalsquiz'
 
 # The quiz data. Keys are states and values are their capitals.
 capitals = {'Alabama': 'Montgomery', 'Alaska': 'Juneau', 'Arizona': 'Phoenix', 'Arkansas': 'Little Rock',
@@ -22,8 +22,8 @@ capitals = {'Alabama': 'Montgomery', 'Alaska': 'Juneau', 'Arizona': 'Phoenix', '
             'Wisconsin': 'Madison', 'Wyoming': 'Cheyenne'}
 capitalsItems = list(capitals.items())
 
-numTests = 5  # int(input('Enter amount of tests to produce: '))
-# Generate 5 quiz files.
+numTests = 1  # int(input('Enter amount of tests to produce: '))
+# Generate 1 quiz files.
 for quizNum in range(numTests):
     # Create the quiz and answer key files.
     quizFile = open(Outputfile + '%s.txt' % (quizNum + 1), 'w')

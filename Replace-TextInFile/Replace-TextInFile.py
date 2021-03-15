@@ -1,7 +1,7 @@
 import time
 
 # Assignments
-Input_file = 'ABV.txt'
+Input_file = 'Example.txt'
 replace_what = "\t"
 replace_with = "\n WHERE BeverageId "
 
