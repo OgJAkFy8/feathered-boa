@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="44669b38-6b19-4284-8190-6f716111aa5c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Find-TextInFile/List-TextInFile.py" beforeDir="false" afterPath="$PROJECT_DIR$/Find-TextInFile/List-TextInFile.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Find-TextInFile/Test-TextInFile.py" beforeDir="false" afterPath="$PROJECT_DIR$/Find-TextInFile/Test-TextInFile.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Get-ListOfRepositories/get-ListofRepos.py" beforeDir="false" afterPath="$PROJECT_DIR$/Get-ListOfRepositories/get-ListofRepos.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Replace-TextInFile/Example-155146.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Replace-TextInFile/Replace-TextInFile.py" beforeDir="false" afterPath="$PROJECT_DIR$/Replace-TextInFile/Replace-TextInFile.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
