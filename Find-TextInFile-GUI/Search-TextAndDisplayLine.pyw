@@ -6,8 +6,8 @@ from tkinter import *
 class MyFrame(Frame):
     def __init__(self):
         Frame.__init__(self)
-        self.master.geometry("350x150")
-        self.master.title("Search and Replace")
+        self.master.geometry("250x100")
+        self.master.title("Search for Text")
         self.grid(row=0, column=1)
 
         self.prompt = Label(self, text="Filename and path")
