@@ -24,4 +24,3 @@ print('\nNew file: {0}'.format(filename))
 Outfile = open(filename, 'w')
 Outfile.write(edited_data)
 Outfile.close()
-
