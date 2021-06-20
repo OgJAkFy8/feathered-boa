@@ -1,7 +1,7 @@
 import time
 
 # Assignments
-Input_file = 'Example.txt'
+Input_file = 'ExampleABV.txt'
 replace_what = "\t"
 replace_with = "\n WHERE BeverageId "
 print('Searching for: "{0}" in file "{1}" and replacing it with "{2}".'.format(replace_what, Input_file, replace_with))
