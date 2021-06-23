@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="44669b38-6b19-4284-8190-6f716111aa5c" name="Default Changelist" comment="updated">
-      <change beforePath="$PROJECT_DIR$/Replace-TextInFile/Replace-TextInFile.py" beforeDir="false" afterPath="$PROJECT_DIR$/Replace-TextInFile/Replace-TextInFile.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Replace-TextInFile-GUI/Example.txt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -219,7 +219,14 @@
       <option name="project" value="LOCAL" />
       <updated>1624153777293</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="updated">
+      <created>1624154273077</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1624154273077</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
