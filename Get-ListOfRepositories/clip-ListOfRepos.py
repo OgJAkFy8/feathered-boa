@@ -14,7 +14,7 @@ for i in outputdict:
     print('{0}) {1}'.format(i, outputdict[i]))
 
 outputFormat = eval(input('Select the output format: '))
-username = 'OgJAkFy8'  # input("Enter the github username:")
+username = 'OgJAkFy8'  # input("Enter the github username: ")
 userURL = 'https://api.github.com/users/{0}/repos'.format(username)
 
 print(userURL)

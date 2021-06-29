@@ -4,8 +4,8 @@ import os
 
 repo = ''
 repolist = []
-Outfilename = 'RepositoryList.txt'
-Outfile = open(Outfilename, 'a')
+outfilename = 'RepositoryList.txt'
+Outfile = open(outfilename, 'a')
 
 # username = 'OgJAkFy8'  
 username = input("Enter the github username: ")
@@ -25,9 +25,10 @@ Outfile.close()
 if len(repolist) > 0:
     # File Name
     timestamp = time.strftime("%d%M%S")
-    name = '-' + timestamp + 'x.txt'
-    filename = Outfilename.replace('.txt', name)
+    name = '-' + timestamp + username + 'x.txt'
+    filename = outfilename.replace('.txt', name)
     print(filename)
-    os.rename(Outfilename, filename)
+    os.rename(outfilename, filename)
 
 print('Total public repos:', len(repolist))
+
