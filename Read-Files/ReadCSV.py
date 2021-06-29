@@ -1,9 +1,16 @@
 import csv
+
 #filename = "C:\Temp\FastCruise\FastCruiseFile.csv"
-filename = input "CSV filename and path: "
+#rowview = 5
+
+filename = 'default.txt'
+while (filename.endswith('csv') == False):
+    filename = input ("CSV filename and path: ")
+rowview = int(input("How many rows to view: "))
 
 fields = []
 rows = []
+
 # reading csv file 
 with open(filename, 'r') as csvfile: 
     # creating a csv reader object 
@@ -23,8 +30,8 @@ with open(filename, 'r') as csvfile:
 print('Field names are:' + ', '.join(field for field in fields)) 
   
 #  printing first 5 rows 
-print('\nFirst 5 rows are:\n') 
-for row in rows[:5]: 
+print('\nFirst %d rows are:\n'%rowview) 
+for row in rows[:rowview]: 
     # parsing each column of a row 
     for col in row: 
         print("%10s"%col), 
