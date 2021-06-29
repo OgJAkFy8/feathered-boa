@@ -7,7 +7,8 @@ repolist = []
 Outfilename = 'RepositoryList.txt'
 Outfile = open(Outfilename, 'a')
 
-username = 'OgJAkFy8'  # input("Enter the github username:")
+# username = 'OgJAkFy8'  
+username = input("Enter the github username: ")
 userURL = 'https://api.github.com/users/{0}/repos'.format(username)
 
 print(userURL)
